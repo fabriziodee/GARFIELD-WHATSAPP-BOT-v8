@@ -4,8 +4,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 // You can Change this Buttons 
 // 👈 You Can change this your choice
-global.list = ('List Menu 🧬')
-global.allmenu = ('All Menu 🎉')
+global.list = ('Lista Menu 🧬')
+global.allmenu = ('Tutti Menu 🎉')
 global.script = ('Script 🌈')
 global.owner = ('Owner 🦋')
 global.deploy = ('Deploy 🐥')
